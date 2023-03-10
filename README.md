@@ -5,7 +5,7 @@ This is a repo of all the practice projects I have done in freeCodeCamp's certif
 <h2>Responsive Web Designs</h2>
 
 <b>Cetification 01</b>
-<ol>
+<ul>
  <li>  Learn HTML by Building a Cat Photo App ✔️</li>
  <li>  Learn Basic CSS by Building a Cafe Menu ✔️</li>
-</ol>
+</ul>
