@@ -9,4 +9,5 @@ This is a repo of all the practice projects I have done in freeCodeCamp's certif
  <li>  Learn HTML by Building a Cat Photo App ✔️</li>
  <li>  Learn Basic CSS by Building a Cafe Menu ✔️</li>
  <li>  Learn CSS Colors by Building a Set of Colored Markers ✔️</li>
+ <li>  Learn HTML Forms by Building a Registration Form </li>
 </ul>
