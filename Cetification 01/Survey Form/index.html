@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Survey Form</title>
+  <link rel="stylesheet" type="text/css" href="styles.css">
+ 
+</head>
+<body>
+  <form id="survey-form">
+  <h1 id="title">Customer Satisfaction Survey</h1>
+    <p id="description">We would like to know your opinion as a customer.</p>
+  <div class="formDescription">
+
+    <label for="name" id="name-label">Name: <input id="name" type ="text" required placeholder="Enter your name"/>
+    </label>
+     <label for="age" id="number-label">Age: <input id="number" type ="number" required placeholder="Enter your age" name="age" min="13" max="120"/>
+     </label>
+     <label for="email" id="email-label">Email: <input id="email" type ="email" required placeholder="Enter your email"/>
+     </label>
+
+     <label for="country">Country:
+       <select id="dropdown" name="country">
+            <option value="">(Select Country)</option>
+            <option value="1">Sri Lanka</option>
+            <option value="2">USA</option>
+            <option value="3">India</option>
+            <option value="4">Other</option>
+      </select>
+     </label>
+     <fieldset>
+       <label for="gender">Gender:
+        <label for="male"><input id="male" type="radio" name="account-type" class="inline" value="1" /> Male</label>
+        <label for="female"><input id="female" type="radio" name="account-type" class="inline" value="1" /> Female</label>
+     </fieldset>
+       <fieldset>
+       <label for="Interested-in">Interested in:
+        <input id="Software-engineering" type="checkbox" required name="terms-and-conditions" class="inline" value="1"/> Software engineering
+        <input id="Data-sicence" type="checkbox" required name="terms-and-conditions" class="inline" value="1"/> Data sicence
+        </label>
+     </fieldset>
+     <label for="bio"><div class="comment">What do you like / Don't like about our program?:</div>
+      <textarea id="bio" name="bio" rows="3" cols="30" placeholder="Enter your comment here"></textarea>
+      </label>
+
+      <input id="submit" type="submit" value="Submit"/>
+      
+</div>
+</form>
+</body>
+</html>
