@@ -11,3 +11,8 @@ This is a repo of all the practice projects I have done in freeCodeCamp's certif
  <li>  Learn CSS Colors by Building a Set of Colored Markers ✔️</li>
  <li>  Learn HTML Forms by Building a Registration Form ✔️ </li>
 </ul>
+<b>Cetification 02</b>
+<ul>
+ <li>  Learn the CSS Box Model by Building a Rothko Painting ✔️</li>
+
+</ul>
