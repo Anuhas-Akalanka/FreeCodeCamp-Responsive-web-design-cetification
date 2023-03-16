@@ -12,8 +12,9 @@ This is a repo of all the practice projects I have done in freeCodeCamp's certif
  <li>  Learn HTML Forms by Building a Registration Form ✔️ </li>
  <li> <b> Build a Survey Form ✔️</b> </li>
 </ul>
+
 <b>Cetification 02</b>
 <ul>
  <li>  Learn the CSS Box Model by Building a Rothko Painting ✔️</li>
-
+ <li>  Learn CSS Flexbox by Building a Photo Gallery ✔️</li>
 </ul>
