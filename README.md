@@ -18,4 +18,6 @@ This is a repo of all the practice projects I have done in freeCodeCamp's certif
  <li>  Learn the CSS Box Model by Building a Rothko Painting ✔️</li>
  <li>  Learn CSS Flexbox by Building a Photo Gallery ✔️</li>
  <li>  Learn Typography by Building a Nutrition Label ✔️ </li>
+ <li>  Learn Accessibility by Building a Quiz ✔️ </li>
+ 
 </ul>
