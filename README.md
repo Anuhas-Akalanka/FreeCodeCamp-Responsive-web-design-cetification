@@ -4,7 +4,7 @@ This is a repo of all the practice projects I have done in freeCodeCamp's certif
 
 <h2>Responsive Web Designs</h2>
 
-<b>Cetification 01</b>
+<b>Certification 01</b>
 <ul>
  <li>  Learn HTML by Building a Cat Photo App ✔️</li>
  <li>  Learn Basic CSS by Building a Cafe Menu ✔️</li>
@@ -13,11 +13,17 @@ This is a repo of all the practice projects I have done in freeCodeCamp's certif
  <li> <b> Build a Survey Form ✔️</b> </li>
 </ul>
 
-<b>Cetification 02</b>
+<b>Certification 02</b>
 <ul>
  <li>  Learn the CSS Box Model by Building a Rothko Painting ✔️</li>
  <li>  Learn CSS Flexbox by Building a Photo Gallery ✔️</li>
  <li>  Learn Typography by Building a Nutrition Label ✔️ </li>
  <li>  Learn Accessibility by Building a Quiz ✔️ </li>
  <li> <b> Build a Tribute Page ✔️ </b> </li>
+</ul>
+
+<b>Certification 03</b>
+<ul>
+ <li>  Learn More About CSS Pseudo Selectors By Building A Balance Sheet ✔️</li>
+
 </ul>
