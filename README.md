@@ -25,5 +25,5 @@ This is a repo of all the practice projects I have done in freeCodeCamp's certif
 <b>Certification 03</b>
 <ul>
  <li>  Learn More About CSS Pseudo Selectors By Building A Balance Sheet ✔️</li>
-
+ <li>  Learn Intermediate CSS by Building a Picasso Painting ✔️</li>
 </ul>
