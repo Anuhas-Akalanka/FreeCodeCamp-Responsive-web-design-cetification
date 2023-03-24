@@ -29,3 +29,8 @@ This is a repo of all the practice projects I have done in freeCodeCamp's certif
  <li>  Learn Responsive Web Design by Building a Piano ✔️</li>
  <li> <b> Build a Technical Documentation Page ✔️ </b> </li>
 </ul>
+
+<b>Certification 04</b>
+<ul>
+ <li>  Learn CSS Variables by Building a City Skyline </li>
+</ul>
