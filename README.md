@@ -34,7 +34,7 @@ This is a repo of all the practice projects I have done in freeCodeCamp's certif
 <ul>
  <li>  Learn CSS Variables by Building a City Skyline ✔️ </li>
  <li>  Learn CSS Grid by Building a Magazine ✔️ </li>
- 
+ <li> <b> Build a Product Landing Page ✔️ </b> </li>
 
 
 </ul>
