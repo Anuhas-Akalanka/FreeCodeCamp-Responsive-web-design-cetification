@@ -35,6 +35,11 @@ This is a repo of all the practice projects I have done in freeCodeCamp's certif
  <li>  Learn CSS Variables by Building a City Skyline ✔️ </li>
  <li>  Learn CSS Grid by Building a Magazine ✔️ </li>
  <li> <b> Build a Product Landing Page ✔️ </b> </li>
+</ul>
 
-
+<b>Certification 05</b>
+<ul>
+ <li>  Learn CSS Animation by Building a Ferris Wheel ✔️ </li>
+ <li>  Learn CSS Transforms by Building a Penguin ✔️ </li>
+ 
 </ul>
