@@ -41,5 +41,6 @@ This is a repo of all the practice projects I have done in freeCodeCamp's certif
 <ul>
  <li>  Learn CSS Animation by Building a Ferris Wheel ✔️ </li>
  <li>  Learn CSS Transforms by Building a Penguin ✔️ </li>
+ <li> <b> Build a Personal Portfolio Webpage </b> </li>
  
 </ul>
