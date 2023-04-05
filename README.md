@@ -44,3 +44,5 @@ This is a repo of all the practice projects I have done in freeCodeCamp's certif
  <li> <b> Build a Personal Portfolio Webpage </b> </li>
  
 </ul>
+
+<img src="https://github.com/Anuhas-Akalanka/FreeCodeCamp-Responsive-web-design-cetification/blob/main/freecodecamp%20certification.png" >
